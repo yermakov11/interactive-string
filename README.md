@@ -20,5 +20,4 @@ This project implements a simple text manipulation interface where users can ent
 3. Select one or more characters and change their color.
 4. Drag and drop characters to swap their positions.
 
-## License
-This project is open source and available under the MIT License.
+
